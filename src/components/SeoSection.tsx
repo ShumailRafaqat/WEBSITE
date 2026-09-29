@@ -200,7 +200,7 @@ export default function SeoSection() {
                   role="img"
                   aria-label={`Demonstration SEO health score: ${score} out of 100`}
                   className="relative flex h-28 w-28 shrink-0 items-center justify-center p-[7px] md:h-36 md:w-36"
-                  style={{ background: `conic-gradient(#bef264 ${score * 3.6}deg, rgba(255,255,255,0.1) 0deg)` }}
+                  style={{ background: `conic-gradient(#A7B65E ${score * 3.6}deg, rgba(255,255,255,0.1) 0deg)` }}
                 >
                   <div className="flex h-full w-full flex-col items-center justify-center bg-ink">
                     <span className="text-[9px] font-semibold uppercase tracking-[0.16em] text-white/45">SEO Health</span>

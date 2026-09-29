@@ -104,8 +104,8 @@ export default function Hero() {
         <div className="relative mx-auto flex aspect-square w-full max-w-[420px] items-center justify-center">
           <div className="absolute inset-[7%] rounded-full border border-white/20" />
           <div className="absolute inset-[19%] rounded-full border border-white/15" />
-          <div className="absolute inset-[29%] rounded-full bg-lime-400/20 shadow-[0_0_90px_rgba(163,230,53,0.22)] backdrop-blur-sm" />
-          <div className="relative z-10 flex h-28 w-28 flex-col items-center justify-center rounded-full border border-lime-200/70 bg-lime-400 text-ink shadow-[0_0_55px_rgba(163,230,53,0.35)] md:h-36 md:w-36">
+          <div className="absolute inset-[29%] rounded-full bg-lime-400/20 shadow-[0_0_90px_rgba(167,182,94,0.22)] backdrop-blur-sm" />
+          <div className="relative z-10 flex h-28 w-28 flex-col items-center justify-center rounded-full border border-lime-200/70 bg-lime-400 text-ink shadow-[0_0_55px_rgba(167,182,94,0.35)] md:h-36 md:w-36">
             <Search size={30} strokeWidth={1.7} />
             <span className="mt-2 text-[10px] font-semibold uppercase tracking-[0.16em]">Be seen</span>
           </div>

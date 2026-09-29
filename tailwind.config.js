@@ -9,6 +9,13 @@ export default {
         sand: '#E8E0D4',
         pine: '#1F4D3A',
         sage: '#3D6B54',
+        lime: {
+          200: '#D5DE9A',
+          300: '#B8C477',
+          400: '#A7B65E',
+          500: '#8E9F45',
+          600: '#71832F',
+        },
       },
       fontFamily: {
         display: ['"Instrument Serif"', 'Georgia', 'serif'],
